@@ -39,6 +39,13 @@ As the founder of **TMR Esports**, I've built a powerhouse that delivers **top-t
 
 ---
 
+### 🗣️ Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?logo=JavaScript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-Beginner-3776AB?logo=Python&logoColor=white)
+
+---
+
 ### 🏅 Badges
 
 ![WordPress Devs](https://img.shields.io/badge/WordPress%20Devs-21759B?logo=WordPress&logoColor=white)
