@@ -45,23 +45,6 @@ As the founder of **TMR Esports**, I've built a powerhouse that delivers **top-t
 ![Python](https://img.shields.io/badge/Python-Beginner-3776AB?logo=Python&logoColor=white)
 
 ---
-
-### 🏅 Badges
-
-![WordPress Devs](https://img.shields.io/badge/WordPress%20Devs-21759B?logo=WordPress&logoColor=white)
-![Esports Event Manager](https://img.shields.io/badge/Esports%20Event%20Manager-FF4500?logo=esports&logoColor=white)
-![TMR Esports Founder](https://img.shields.io/badge/TMR%20Esports's%20Founder-FFD700?style=flat-square&logo=crown)
-
----
-
-### 🌟 Featured Project
-
-#### 🎮 **Esports Event Management**
-> Bringing together thousands of players and brands for unforgettable tournaments and community events.  
-> Leading TMR Esports to new heights in the Indian and global esports ecosystem.
-
----
-
 ### 🤝 Connect with Me
 
 <p align="left">
