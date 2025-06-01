@@ -45,8 +45,6 @@ As the founder of **TMR Esports**, I've built a powerhouse that delivers **top-t
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tmrassault&show_icons=true&locale=en" alt="tmrassault" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tmrassault&label=Profile%20views&color=0e75b6&style=flat" alt="tmrassault" /> </p>
----
 
 <p align="center">
   <b>Whether you're a gamer, brand, or esports enthusiast, <a href="https://discord.com/invite/YjbRptEjaM">TMR Esports</a> is here to elevate the game.<br>
