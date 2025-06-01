@@ -22,7 +22,7 @@ As the founder of **TMR Esports**, I've built a powerhouse that delivers **top-t
 - **Broadcast & Production:** Leading live event broadcasts, ensuring seamless, high-quality streams.
 - **Community & Teamwork:** Building strong gaming communities and managing dynamic teams.
 - **Brand & Social Media:** Elevating brands through strategic campaigns and creative storytelling.
-### 💡 My Top Skills
+### 💡 My Top Skills & 🗣️ Languages
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=WordPress&logoColor=white)
 ![Event Management](https://img.shields.io/badge/Event%20Management-FF7F50)
@@ -30,9 +30,6 @@ As the founder of **TMR Esports**, I've built a powerhouse that delivers **top-t
 ![Production Manager](https://img.shields.io/badge/Production%20Manager-FFD700)
 ![Teamwork](https://img.shields.io/badge/Teamwork-228B22)
 ![Social Media](https://img.shields.io/badge/Social%20Media-1DA1F2)
-
-### 🗣️ Languages
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?logo=JavaScript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-Beginner-3776AB?logo=Python&logoColor=white)
 ### 🤝 Connect with Me
