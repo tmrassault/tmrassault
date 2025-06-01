@@ -31,14 +31,10 @@ As the founder of **TMR Esports**, I've built a powerhouse that delivers **top-t
 ![Teamwork](https://img.shields.io/badge/Teamwork-228B22)
 ![Social Media](https://img.shields.io/badge/Social%20Media-1DA1F2)
 
----
-
 ### 🗣️ Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?logo=JavaScript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-Beginner-3776AB?logo=Python&logoColor=white)
-
----
 ### 🤝 Connect with Me
 
 <p align="left">
