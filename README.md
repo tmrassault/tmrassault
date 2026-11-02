@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-> **Esports is more than just a game—it’s a revolution.**
+> **Esports is more than just a game; it’s a revolution.**
 
 I'm Aman, better known as **Assault** in the gaming world, and I'm leading the charge in India's esports scene. With 4+ years of hands-on experience in **event operations, tournament management, and broadcast production**, I'm passionate about creating unforgettable gaming experiences.
 
