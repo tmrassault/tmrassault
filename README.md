@@ -1,6 +1,6 @@
 <!-- Profile README for tmrassault (Aman | Assault) -->
 
-<h2 align="center">👋 Hi, I'm Aman (Assault) — Esports Visionary & Web Designer</h2>
+<h2 align="center">👋 Hi, I'm Aman (Assault)! Esports Visionary & Web Designer</h2>
 <p align="center">
   <b>Esports Manager | Web Designer | Broadcast Manager</b><br>
   Founder & CEO, <a href="https://discord.com/invite/YjbRptEjaM">TMR Esports</a>
@@ -12,7 +12,7 @@
 
 > **Esports is more than just a game—it’s a revolution.**
 
-I'm Aman, better known as **Assault** in the gaming world, leading the charge in the Indian esports scene. With 4+ years of hands-on experience in **event operations, tournament management, and broadcast production**, I'm passionate about creating unforgettable gaming experiences.
+I'm Aman, better known as **Assault** in the gaming world, and I'm leading the charge in India's esports scene. With 4+ years of hands-on experience in **event operations, tournament management, and broadcast production**, I'm passionate about creating unforgettable gaming experiences.
 
 As the founder of **TMR Esports**, I've built a powerhouse that delivers **top-tier tournaments, production services, and community-driven events** for gamers and brands alike.
 ### 🏆 What I Do:
